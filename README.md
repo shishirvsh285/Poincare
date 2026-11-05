@@ -16,7 +16,7 @@ Wait long enough and almost every state of a closed, frictionless system returns
 |---|---|
 | `src/` | One Python script per idea. Each one makes its own figures |
 | `figures/` | All plots (PNG), animations (GIF) and the raw numbers (`05_results.csv`) |
-| `slides/` | `slides.md` (edit this) and `slides.pdf` (upload this) |
+| `slides/` | `slides.pptx` (PowerPoint, editable), `slides.md` (Marp source) and `slides.pdf` |
 | `notes/physics_notes.md` | Proofs, derivations, numbers and likely questions |
 | `notebook/` | Colab notebook that runs everything in the browser |
 
