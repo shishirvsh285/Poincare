@@ -54,6 +54,7 @@ python src/05_gas_in_box.py     # or just one script
 | `03_torus_oscillators.py` | Two oscillators, ratio $\varphi$, return near the start | mean return time matches $(2\pi)^n/(\lvert\omega\rvert\sigma_\varepsilon)$ within 3% |
 | `04_cat_map.py` | Chaotic pixel shuffle returns exactly | period 25 on a $101 \times 101$ grid |
 | `05_gas_in_box.py` | **Main numerical case.** $N$ particles, all start on the left | mean return time $= 2^N$ (Kac) for $N = 1$ to 14 |
+| `06_gas_torus.py` | The gas drawn as a point on a torus: bounce = circle, 2 particles = square with glued edges, target = a quarter | mean wait 4.000 looks for $N = 2$ (Kac: 4) |
 
 ## Edit the slides
 

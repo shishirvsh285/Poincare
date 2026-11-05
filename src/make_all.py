@@ -12,6 +12,7 @@ SCRIPTS = [
     "03_torus_oscillators",
     "04_cat_map",
     "05_gas_in_box",
+    "06_gas_torus",
 ]
 
 if __name__ == "__main__":
