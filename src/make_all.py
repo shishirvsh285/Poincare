@@ -13,6 +13,7 @@ SCRIPTS = [
     "04_cat_map",
     "05_gas_in_box",
     "06_gas_torus",
+    "07_torus_figures",
 ]
 
 if __name__ == "__main__":
